@@ -1,0 +1,14 @@
+{
+"companyName": "VGP",
+"productName": "HopHopRabbit2D",
+"dataUrl": "WebGL1.0.data.unityweb",
+"wasmCodeUrl": "WebGL1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL1.0.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGL1.0.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
