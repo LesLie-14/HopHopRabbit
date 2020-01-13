@@ -1,6 +1,6 @@
 # HopHopRabbit
 
-Working controls for the First Playable Build
+Working controls
 ↑ - jump
 ← - left
 → - right
