@@ -1,8 +1,8 @@
 # HopHopRabbit
 
 Working controls
-↑ - jump
-← - left
-→ - right
+w - jump
+a - left
+d - right
 
-https://leslie-dizon-14.github.io/HopHopRabbit/
+https://leslie-14.github.io/HopHopRabbit/
