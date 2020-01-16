@@ -2,9 +2,7 @@
 https://leslie-14.github.io/HopHopRabbit/
 
 # Controls  
-w - jump  
-a - left  
-d - right
+![My Controls](https://github.com/LesLie-14/HopHopRabbit/blob/master/Controls.PNG)
 
 # Game Overview 
 In a faraway garden, a rabbit was sleeping in peace until one day a flock of evil butterflies invaded the garden. Will the rabbit be able to bring back the peace in the garden? Will the rabbit be able to secure his carrots?
