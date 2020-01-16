@@ -25,3 +25,5 @@ However, the evil butterfly can kill the small rabbit, or eliminate rabbit’s a
 **Killer Butterfly** -  has bright green colour with symbol on the wings. It flies faster than the Danger Butterfly and can use pollen to attack the player. When rabbit touches the pollen, the rabbit will either take away the ability or die (small rabbit).
 
 **Queen Butterfly** - the largest butterfly in the game and it has the most powerful power that can kill the rabbit directly. It uses the pollen, drool and rush to attack the player. No matter what ability the rabbit has, the Queen Butterfly can kill the rabbit instantly when rabbit touches the Queen Butterfly, receive the attack from Queen Butterfly and even touch the pollen.
+
+**Evil Plant** - It has the mouth to bite the rabbit. When small rabbit gets bitten by the Evil Plant, the rabbit dies instantly. However, if the rabbit has the big carrots ability, he is able to avoid the evil plant but goes back to being small.
