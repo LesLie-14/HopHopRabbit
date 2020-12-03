@@ -1,5 +1,10 @@
 # HopHopRabbit  
+
+## Useful Links:
+### Web-GL Playable Link: 
 https://leslie-14.github.io/HopHopRabbit/
+### Link to Github project:
+https://github.com/LesLie-14/COMP391_F2018_001_GrpProject
 
 # Controls  
 ![My Controls](https://github.com/LesLie-14/HopHopRabbit/blob/master/Controls.PNG)
